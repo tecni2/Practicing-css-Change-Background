@@ -47,9 +47,6 @@ body
 }
 
 @media (max-width: 530px) {
-  .container-colors {
-    background: var(--clr);
-  }
   .container-title {
     width: 300px;
     height: 200px;
